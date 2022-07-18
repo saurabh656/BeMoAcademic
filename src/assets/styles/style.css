@@ -1,0 +1,19 @@
+/* light stylings */
+.padding {
+  margin-top: 10px;
+  padding-right: 0;
+}
+
+.validation-div {
+  width: 100%;
+  margin-top: 0.2rem;
+  font-size: 80%;
+  color: #dc3545;
+}
+
+.vm--modal {
+  height: auto !important;
+}
+.Column-height {
+  min-height: 300px;
+}
